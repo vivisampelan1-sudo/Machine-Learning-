@@ -24,8 +24,11 @@ Two feature sets are tested:
 RF underperforms HAR with RV lags alone, but outperforms when given richer features — particularly for JPM, where VIX captures market-wide volatility drivers.
 
 ## Repository Structure
-├── Machine_Learning_Personal_Coursework.ipynb   # Full pipeline (Colab)
-└── README.md
+
+```
+Machine_Learning_Personal_Coursework.ipynb   # Full pipeline (Colab)
+README.md
+```
 
 ## How to Run
 
