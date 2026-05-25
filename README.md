@@ -48,6 +48,7 @@ RF underperforms HAR with RV lags alone, but outperforms when given richer featu
 - Christensen, K., Siggaard, M., & Veliyev, B. (2023). A Machine Learning Approach to Volatility Forecasting. *Journal of Financial Econometrics*, 21(5), 1680–1727.
 - Corsi, F. (2009). A Simple Approximate Long-Memory Model of Realized Volatility. *Journal of Financial Econometrics*, 7(2), 174–196.
 - Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5–32.
+- Fulvio Corsi. A simple approximate long-memory model of realized volatility. Journal of Financial Econometrics, 7(2):174–196, 2009.
 
 ## Author
 
